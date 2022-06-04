@@ -1,0 +1,42 @@
+.icon {
+    text-align: center;
+}
+
+.search{
+    text-align: center;
+    background-color: aliceblue;
+
+}
+
+.container{
+    display:flex;
+    position: relative;
+    right: -400px;
+}
+
+.first {
+    text-align: center;
+    width: 300px; height: 120px;
+    background-color: aquamarine;
+   }
+
+
+.second {
+    text-align: center;
+    width: 150px; height: 120px;
+    background-color: aqua;
+}
+
+
+
+.third {
+    text-align: center;
+    width: 300px; height: 120px;
+    background-color:rgb(22, 173, 173);
+
+}
+
+.footer {
+    text-align: center;
+}
+
